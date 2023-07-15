@@ -2,5 +2,3 @@
 
 env.component="frontend"
 nginx()
-
-
